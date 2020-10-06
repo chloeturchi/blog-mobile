@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Food",
-    "slug": "food",
+    "name": "Blog App",
+    "slug": "blog",
     "privacy": "public",
     "platforms": ["ios", "android", "web"],
     "version": "1.0.0",
