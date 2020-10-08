@@ -6,6 +6,7 @@ import IndexScreen from './src/screens/IndexScreen';
 import ShowScreen from './src/screens/ShowScreen';
 import CreateScreen from './src/screens/CreateScreen';
 import EditScreen from './src/screens/EditScreen';
+
 const navigator = createStackNavigator(
   {
     Index: IndexScreen,
