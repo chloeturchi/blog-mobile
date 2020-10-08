@@ -7,6 +7,7 @@ A blog mobile app developed with react-native
 - react-native
 - react-navigation
 - expo
+- axios
 
 ## Installation
     Install the dependencies from the package.json file with npm install
